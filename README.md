@@ -1,6 +1,7 @@
-## About Me
 
-![Hello Guys!](image.png)
+![Hello Guys!](image.gif)
+
+## About Me
 
 Hello everyone 👋, I'm Clarisse Diniz, a Systems Information graduate and Frontend Developer.
 
