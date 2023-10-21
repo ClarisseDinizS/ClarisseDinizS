@@ -19,8 +19,6 @@ Hello everyone 👋, I'm Clarisse Diniz, a Systems Information graduate and Fron
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="20" height="20"/> Spring
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/> TypeScript
 
-## **GitHub **
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClarisseDinizS&theme=dracula&hide_langs_below=1" />
 
 ### Contact Me!
