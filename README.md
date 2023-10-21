@@ -24,7 +24,7 @@ Hello everyone 👋, I'm Clarisse Diniz, a Systems Information graduate and Fron
 ### Contact Me!
 
 [![Instagram](https://img.shields.io/badge/Instagram-@clarissedinizs-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/clarissedinizs/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clarisse%20Diniz%20de%20Silva-pink?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/clarisse-diniz-silva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clarisse%20Diniz%20Silva-pink?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/clarisse-diniz-silva/)
 [![Gmail](https://img.shields.io/badge/Gmail-dinizclarisse.cd%40gmail.com-pink?style=for-the-badge&logo=gmail)](mailto:dinizclarisse.cd@gmail.com)
 
 ## Sobre Mim
@@ -47,7 +47,7 @@ Olá Pessoal!👋, Me chamo Clarisse Diniz, sou estudante de Sistemas de Informa
 ### Entre em Contato!
 
 [![Instagram](https://img.shields.io/badge/Instagram-@clarissedinizs-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/clarissedinizs/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clarisse%20Diniz%20de%20Silva-pink?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/clarisse-diniz-silva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clarisse%20Diniz%20Silva-pink?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/clarisse-diniz-silva/)
 [![Gmail](https://img.shields.io/badge/Gmail-dinizclarisse.cd%40gmail.com-pink?style=for-the-badge&logo=gmail)](mailto:dinizclarisse.cd@gmail.com)
 
 
