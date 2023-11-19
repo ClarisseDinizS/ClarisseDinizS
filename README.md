@@ -18,6 +18,9 @@ Hello everyone 👋, I'm Clarisse Diniz, a Systems Information graduate and Fron
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="20" height="20"/> Spring
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/> TypeScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"/> PostgreSQL
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClarisseDinizS&theme=dracula&hide_langs_below=1" />
 
